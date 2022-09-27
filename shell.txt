@@ -1,0 +1,5 @@
+pour installer git : sudo apt install git-all
+creation d'un compte github dont mon username : cheikh-abdou-khadre-gueye
+Clonez le repository shell : git clone l'adreesse ssh puis tapez sur entrer
+Ajoutez le travail du projet réaliser à l'intérieur du repository shell : git add nom fichier
+Pushez le nouveau contenu de votre repository: git push
